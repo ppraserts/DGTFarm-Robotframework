@@ -4,7 +4,7 @@ Test Setup    Go To Page    /user/login
 Test Teardown    Close Browser
 
 *** Testcases ***
-Verify List Product on Page
+List Product Display on Page
     Wait Until Page Contains    Login
     Input Text    email    aj.jammy09@gmail.com
     Input Password    password    123456
