@@ -31,6 +31,5 @@ Can Click See Product
 Can Click Entry Market
     Wait Until Page Contains    DGTFarm
     Click Element     ${LinkEntryMarket}
-    Wait Until Page Contains     ต้องการ
-    Page Should Contain    ต้องการขาย
-    Page Should Contain    ต้องการซื้อ
+    Wait Until Page Contains     ตลาด
+    Page Should Contain    ตลาด
