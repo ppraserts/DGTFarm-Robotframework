@@ -11,7 +11,7 @@ Fist Page display correct
     Page Should Contain    มิติใหม่สินค้าเกษตรไทยบนโลกออนไลน์
     Page Should Contain    การจับคู่ธุรกิจยุคใหม่ที่เกษตรกรไทยและผู้บริโภคจะมาพบกันในโลกออนไลน์
     Page Should Contain    สมัครสมาชิก
-    Page Should Contain    ชมสินค้า
+    Page Should Contain    ชมตลาด
     Page Should Contain    เข้าตลาด
 
 Can Click Open Register
