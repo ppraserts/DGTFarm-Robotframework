@@ -12,7 +12,7 @@ Fist Page display correct
     Page Should Contain    การจับคู่ธุรกิจยุคใหม่ที่เกษตรกรไทยและผู้บริโภคจะมาพบกันในโลกออนไลน์
     Page Should Contain    สมัครสมาชิก
     Page Should Contain    ชมตลาด
-    Page Should Contain    เข้าตลาด
+    Page Should Contain    จับคู่ซื้อขาย
 
 Can Click Open Register
     Wait Until Page Contains    DGTFarm
