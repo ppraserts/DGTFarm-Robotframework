@@ -12,4 +12,4 @@ List Product Display on Page
     Wait Until Page Contains    ชนิดสินค้า
     Go To    ${URL}/user/userproduct
     Wait Until Page Contains    ชนิดสินค้า
-    Wait Until Page Contains    สินค้า(ไทย)
+    Wait Until Page Contains    สินค้า
